@@ -25,7 +25,7 @@ Any repeal or modification of the foregoing provisions of this Article Ninth by 
 Any amendment, repeal or modification of the foregoing provisions of this Article Tenth shall not adversely affect any right or protection of any director, officer or other agent of the Corporation existing at the time of such amendment, repeal or modification.
 	
 **ELEVENTH**:	The name and mailing address of the incorporator is <INCORPORATOR NAME>, <INCORPORATOR ADDRESS>.
-I, THE UNDERSIGNED, being the incorporator, for the purpose of forming a corporation under the laws of the <STATE/COMMONWEALTH> of <STATE OF INCORPORATION>, do make, file and record this Certificate of Incorporation, do certify that the facts herein stated are true, and accordingly, have hereto set my hand this DATE, YEAR.
+I, THE UNDERSIGNED, being the incorporator, for the purpose of forming a corporation under the laws of the <STATE/COMMONWEALTH> of <STATE OF INCORPORATION>, do make, file and record this Certificate of Incorporation, do certify that the facts herein stated are true, and accordingly, have hereto set my hand this <DATE>, <YEAR>.
 
 
 By: ________________________
