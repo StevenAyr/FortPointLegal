@@ -1,8 +1,8 @@
 #CERTIFICATE OF INCORPORATION OF [COMPANY NAME]
 
-FIRST:	The name of this corporation is [COMPANY NAME] (the “**Corporation**”).
+*FIRST*:	The name of this corporation is [COMPANY NAME] (the “**Corporation**”).
 
-SECOND:	The address of the registered office of the Corporation in the State of Delaware is 160 Greentree Drive, Suite 101, in the City of Dover, County of Kent. The registered agent in charge thereof is National Registered Agents, Inc.
+*SECOND*:	The address of the registered office of the Corporation in the State of Delaware is 160 Greentree Drive, Suite 101, in the City of Dover, County of Kent. The registered agent in charge thereof is National Registered Agents, Inc.
 
 THIRD:	The purpose of the Corporation is to engage in any lawful act or activity for which a corporation may be organized under the General Corporation Law of Delaware.
 
