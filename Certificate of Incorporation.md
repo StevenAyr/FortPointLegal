@@ -2,7 +2,7 @@
 
 **FIRST**:	The name of this corporation is <COMPANY NAME> (the “**Corporation**”).
 
-**SECOND**:	The address of the registered office of the Corporation in the <STATE/COMMONWEALTH> of ,<STATE OF INCORPORATION> is <REGISTERED AGENT ADDRESS>. The registered agent in charge thereof is <REGISTERED AGENT NAME>.
+**SECOND**:	The address of the registered office of the Corporation in the <STATE/COMMONWEALTH> of <STATE OF INCORPORATION> is <REGISTERED AGENT ADDRESS>. The registered agent in charge thereof is <REGISTERED AGENT NAME>.
 
 **THIRD**:	The purpose of the Corporation is to engage in any lawful act or activity for which a corporation may be organized under the <STATE CORPORATION LAW>.
 
