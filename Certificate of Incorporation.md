@@ -29,5 +29,5 @@ I, THE UNDERSIGNED, being the incorporator, for the purpose of forming a corpora
 
 
 By: ________________________
-	Name: [INCORPORATOR NAME]
-	Title: Incorporator
+    Name: [INCORPORATOR NAME]
+    Title: Incorporator
