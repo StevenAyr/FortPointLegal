@@ -6,7 +6,7 @@
 
 **THIRD**:	The purpose of the Corporation is to engage in any lawful act or activity for which a corporation may be organized under the General Corporation Law of Delaware.
 
-**FOURTH**:	The total number of shares of stock which the Corporation shall have authority to issue is [NUMBER OF SHARES] ([NUMBER OF SHARES]) shares, which shall be Common Stock, par value $0.___ per share (the “Common Stock”).
+**FOURTH**:	The total number of shares of stock which the Corporation shall have authority to issue is <NUMBER OF SHARES> (<NUMBER OF SHARES>) shares, which shall be Common Stock, par value $0.___ per share (the “Common Stock”).
 
 **FIFTH**:	Subject to any additional vote required by the Certificate of Incorporation or Bylaws, in furtherance and not in limitation of the powers conferred by statute, the Board of Directors is expressly authorized to make, repeal, alter, amend and rescind any or all of the Bylaws of the Corporation.
 
@@ -29,4 +29,7 @@ I, THE UNDERSIGNED, being the incorporator, for the purpose of forming a corpora
 
 
 By: ________________________
-       [INCORPORATOR NAME]
+    
+Name: [INCORPORATOR NAME]
+    
+Title: Incorporator
