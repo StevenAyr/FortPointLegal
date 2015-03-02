@@ -1,10 +1,10 @@
-##ACTION BY UNANIMOUS WRITTEN CONSENT OF THE BOARD OF DIRECTORS OF *COMPANY NAME* IN LIEU OF INITIAL MEETING
+## ACTION BY UNANIMOUS WRITTEN CONSENT OF THE BOARD OF DIRECTORS OF *COMPANY NAME* IN LIEU OF INITIAL MEETING
 
 As of ________________________
 
-The Directors of *COMPANY NAME*, a Delaware corporation (the “**Corporation**”), hereby adopts the following resolutions in lieu of holding an initial meeting.
+The Directors of *COMPANY NAME*, a *STATE OF INCORPORATION* corporation (the “**Corporation**”), hereby adopts the following resolutions in lieu of holding an initial meeting.
 
-WHEREAS, *INCORPORATOR NAME* (the “**Incorporator**”) has caused to be filed the Certificate of Incorporation (the “**Articles**”) with the Secretary of State of Delaware as of the date hereof;
+WHEREAS, *INCORPORATOR NAME* (the “**Incorporator**”) has caused to be filed the Certificate of Incorporation (the “**Articles**”) with the Secretary of *STATE OR COMMONWEALTH* of *STATE OF INCORPORATION* as of the date hereof;
 
 **NOW THEREFORE, BE IT RESOLVED**:
 
@@ -68,7 +68,7 @@ By: _______________________________
     *Director 2*
 
  
-###Exhibit A
+### Exhibit A
 
-###By-laws of *COMPANY NAME*
+**By-laws of *COMPANY NAME***
 
