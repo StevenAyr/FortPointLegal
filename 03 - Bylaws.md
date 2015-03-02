@@ -128,6 +128,6 @@ These Bylaws may be altered, amended or repealed or new Bylaws may be adopted by
 
 **I CERTIFY** the foregoing to be a true and correct copy of the Bylaws of the Corporation as of the date first written above.
 
-By: ________________________
+By: ________________________  
 *SECRETARY NAME*, Secretary
 
