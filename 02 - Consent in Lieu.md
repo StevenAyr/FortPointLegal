@@ -16,13 +16,11 @@ WHEREAS, *INCORPORATOR NAME* (the “**Incorporator**”) has caused to be filed
 	1.4. Treasurer:	*TREASURER*  
 	1.5. Secretary:	*SECRETARY*
 
-That pursuant to the Bylaws, the officers are directed to issue shares of the common stock of the Corporation in the following amounts subject to the following restrictions:
+3. That pursuant to the Bylaws, the officers are directed to issue shares of the common stock of the Corporation in the following amounts subject to the following restrictions:
 
-a.	*SHARE NUMBER 1* shares to *SHAREHOLDER 1*, subject to a Founder Share Restriction Agreement in the discretion of the officers;
-
-b.	*SHARE NUMBER 2* shares to *SHAREHOLDER 2*, subject to a Founder Share Restriction Agreement in the discretion of the officers;
-
-c.	*SHARE NUMBER 3* shares to *SHAREHOLDER 3*, subject to a Founder Share Restriction Agreement in the discretion of the officers.
+3.1.	*SHARE NUMBER 1* shares to *SHAREHOLDER 1*, subject to a Founder Share Restriction Agreement in the discretion of the officers;
+3.2.	*SHARE NUMBER 2* shares to *SHAREHOLDER 2*, subject to a Founder Share Restriction Agreement in the discretion of the officers;
+3.3.	*SHARE NUMBER 3* shares to *SHAREHOLDER 3*, subject to a Founder Share Restriction Agreement in the discretion of the officers.
 
 IV.	That the Corporation shall maintain as part of its corporate records a Minute Book which shall include, but which shall not be limited to, a record of its Articles and amendments thereto, its Bylaws and amendments thereto, minutes of all meetings of its directors, with the time and place of holding, whether regular or special, and if special how authorized, the notice thereof given and the proceedings thereto;
 
