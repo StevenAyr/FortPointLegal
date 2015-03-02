@@ -70,5 +70,5 @@ By: _______________________________
  
 ### Exhibit A
 
-**By-laws of *COMPANY NAME* **
+#### By-laws of *COMPANY NAME*
 
