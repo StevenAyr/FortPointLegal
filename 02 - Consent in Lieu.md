@@ -9,11 +9,12 @@ WHEREAS, *INCORPORATOR NAME* (the “**Incorporator**”) has caused to be filed
 **NOW THEREFORE, BE IT RESOLVED**:
 
 1. That the bylaws attached hereto as Exhibit A be and they hereby are adopted as the bylaws of the Corporation (the “Bylaws”);
-2. That pursuant to the Bylaws, the following individuals are appointed as the officers and directors of the Corporation, each to serve until such time as his or her successor is duly elected and qualified in accordance with the Bylaws:  
-  
-Director:	*DIRECTOR 1*	President:	*PRESIDENT*  
-Director:	*DIRECTOR 2*	Treasurer:	*TREASURER*  
-Secretary:	*SECRETARY*
+2. That pursuant to the Bylaws, the following individuals are appointed as the officers and directors of the Corporation, each to serve until such time as his or her successor is duly elected and qualified in accordance with the Bylaws:
+	1. Director:	*DIRECTOR 1* 
+	3. Director:	*DIRECTOR 2*
+	4. President:	*PRESIDENT* 
+	4. Treasurer:	*TREASURER*  
+	5. Secretary:	*SECRETARY*
 
 That pursuant to the Bylaws, the officers are directed to issue shares of the common stock of the Corporation in the following amounts subject to the following restrictions:
 
