@@ -55,17 +55,17 @@ WHEREAS, *INCORPORATOR NAME* (the “**Incorporator**”) has caused to be filed
 
 
 By: _____________________________	
-*Incorporator Name*	
+    *Incorporator Name*	
 	
 **DIRECTOR**	
 
 By: ______________________________  
-*Director 1*	
+    *Director 1*	
 
 **DIRECTOR**
 
 By: _______________________________	  
-*Director 2*
+    *Director 2*
 
  
 ###Exhibit A
