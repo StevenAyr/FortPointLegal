@@ -6,7 +6,7 @@
 
 **THIRD**:	The purpose of the Corporation is to engage in any lawful act or activity for which a corporation may be organized under the *STATE CORPORATION LAW*.
 
-**FOURTH**:	The total number of shares of stock which the Corporation shall have authority to issue is *NUMBER OF SHARES* (*NUMBER OF SHARES*) shares, which shall be Common Stock, par value $0.___ per share (the “**Common Stock**”).
+**FOURTH**:	The total number of shares of stock which the Corporation shall have authority to issue is *NUMBER OF SHARES* (*# OF SHARES*) shares, which shall be Common Stock, par value $*PAR VALUE* per share (the “**Common Stock**”).
 
 **FIFTH**:	Subject to any additional vote required by the Certificate of Incorporation or Bylaws, in furtherance and not in limitation of the powers conferred by statute, the Board of Directors is expressly authorized to make, repeal, alter, amend and rescind any or all of the Bylaws of the Corporation.
 
@@ -14,9 +14,9 @@
 
 **SEVENTH**:	Elections of directors need not be by written ballot unless the Bylaws of the Corporation shall so provide.
 
-**EIGHTH**:	Meetings of stockholders may be held within or without the *STATE/COMMONWEALTH* of *STATE OF INCORPORATION*, as the Bylaws of the Corporation may provide. The books of the Corporation may be kept outside the *STATE/COMMONWEALTH* of *STATE OF INCORPORATION* at such place or places as may be designated from time to time by the Board of Directors or in the Bylaws of the Corporation.
+**EIGHTH**:	Meetings of stockholders may be held within or without the *STATE OR COMMONWEALTH* of *STATE OF INCORPORATION*, as the Bylaws of the Corporation may provide. The books of the Corporation may be kept outside the *STATE OR COMMONWEALTH* of *STATE OF INCORPORATION* at such place or places as may be designated from time to time by the Board of Directors or in the Bylaws of the Corporation.
 
-**NINTH**:	To the fullest extent permitted by law, a director of the Corporation shall not be personally liable to the Corporation or its stockholders for monetary damages for breach of fiduciary duty as a director. If the *STATE CORPORATION LAW* or any other law of the *STATE/COMMONWEALTH* of *STATE OF INCORPORATION* is amended after approval by the stockholders of this Article Ninth to authorize corporate action further eliminating or limiting the personal liability of directors, then the liability of a director of the Corporation shall be eliminated or limited to the fullest extent permitted by the *STATE CORPORATION LAW* as so amended.
+**NINTH**:	To the fullest extent permitted by law, a director of the Corporation shall not be personally liable to the Corporation or its stockholders for monetary damages for breach of fiduciary duty as a director. If the *STATE CORPORATION LAW* or any other law of the *STATE OR COMMONWEALTH* of *STATE OF INCORPORATION* is amended after approval by the stockholders of this Article Ninth to authorize corporate action further eliminating or limiting the personal liability of directors, then the liability of a director of the Corporation shall be eliminated or limited to the fullest extent permitted by the *STATE CORPORATION LAW* as so amended.
 
 Any repeal or modification of the foregoing provisions of this Article Ninth by the stockholders of the Corporation shall not adversely affect any right or protection of a director of the Corporation existing at the time of, or increase the liability of any director of the Corporation with respect to any acts or omissions of such director occurring prior to, such repeal or modification.
 	
@@ -25,7 +25,7 @@ Any repeal or modification of the foregoing provisions of this Article Ninth by 
 Any amendment, repeal or modification of the foregoing provisions of this Article Tenth shall not adversely affect any right or protection of any director, officer or other agent of the Corporation existing at the time of such amendment, repeal or modification.
 	
 **ELEVENTH**:	The name and mailing address of the incorporator is *INCORPORATOR NAME*, *INCORPORATOR ADDRESS*.
-I, THE UNDERSIGNED, being the incorporator, for the purpose of forming a corporation under the laws of the *STATE/COMMONWEALTH* of *STATE OF INCORPORATION*, do make, file and record this Certificate of Incorporation, do certify that the facts herein stated are true, and accordingly, have hereto set my hand this *DATE*, *YEAR*.
+I, THE UNDERSIGNED, being the incorporator, for the purpose of forming a corporation under the laws of the *STATE OR COMMONWEALTH* of *STATE OF INCORPORATION*, do make, file and record this Certificate of Incorporation, do certify that the facts herein stated are true, and accordingly, have hereto set my hand this *DATE*, *YEAR*.
 
 
 By: ________________________
