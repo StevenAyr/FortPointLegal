@@ -17,5 +17,5 @@ It is understood that you will issue the interest without registration under the
 Very truly yours,
 
 
-_____________________________________
+By, _____________________________
 *FOUNDER NAME*
