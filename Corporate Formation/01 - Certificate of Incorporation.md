@@ -1,4 +1,4 @@
-## *COMPANY NAME*
+## *COMPANY NAME*  
 ## CERTIFICATE OF INCORPORATION 
 
 **FIRST**:	The name of this corporation is *COMPANY NAME* (the “**Corporation**”).
