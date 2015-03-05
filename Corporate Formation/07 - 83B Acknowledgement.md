@@ -15,7 +15,7 @@ The undersigned has entered into a stock purchase agreement with *COMPANY NAME*,
 
 **PURCHASER**
 
-BY, ________________________
+BY, ________________________  
 *PURCHASER NAME*
 
 DATE: __________________
@@ -24,7 +24,7 @@ DATE: __________________
 **PURCHASER’S SPOUSE**
 (if applicable)
 
-BY, ________________________
+BY, ________________________  
 *SPOUSE NAME*
 
 
