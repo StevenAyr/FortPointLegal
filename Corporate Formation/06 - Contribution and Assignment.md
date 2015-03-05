@@ -51,7 +51,7 @@ By, ______________________________
 By:_____________________________  
 *COMPANY REP NAME*, *COMPANY REP TITLE*
 
-## *COMPANY NAME*
+### *COMPANY NAME*
 ### CONTRIBUTION AND ASSIGNMENT AGREEMENT
 #### EXHIBIT A
 
