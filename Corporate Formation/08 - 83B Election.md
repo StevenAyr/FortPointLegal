@@ -1,6 +1,7 @@
 ### ELECTION UNDER SECTION 83(B)
 ### OF THE INTERNAL REVENUE CODE OF 1986
 The undersigned taxpayer hereby elects, pursuant to Section 83(b) of the Internal Revenue Code, to include in taxpayer’s gross income for the current taxable year, the amount of any compensation taxable to taxpayer in connection with taxpayer’s receipt of the property described below:
+
 1. The name, address, taxpayer identification number and taxable year of the undersigned are as follows:
 NAME OF TAXPAYER: *FOUNDER NAME*
 NAME OF SPOUSE: *FOUNDER SPOUSE*
