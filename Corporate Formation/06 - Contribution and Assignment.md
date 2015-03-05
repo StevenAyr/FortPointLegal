@@ -1,10 +1,6 @@
 ## COMPANY NAME
 ### CONTRIBUTION AND ASSIGNMENT AGREEMENT
 
-TO: *COMPANY NAME*  
-*COMPANY ADDRESS 1*  
-*COMPANY ADDRESS 2*
-
 Reference is made to the undersigned (the “**Founder**”), and the Founder Stock Restriction Agreement, dated as of the even date herewith, by and between *COMPANY NAME* (the “**Company**”) and the Founder (such agreement, the “**Stock Restriction Agreement**”). 
 
 1. **Commitment to Company; Avoidance of Conflict of Interest.** During the term of Founder’s Business Relationship with the Company, Founder will not engage in any business activity that conflicts with his or her duties to the Company. Founder will advise the other Founders at such time as any activity of either the Company or another business presents Founder with a conflict of interest or the appearance of a conflict of interest. Founder will take whatever action is requested by the Company to resolve any conflict or appearance of conflict that it finds to exist. As used herein, “**Business Relationship**” means Founder’s relationship with the Company as an employee, contractor, holder of a percentage interest in the Company or participant in pre-formation discussions regarding the Company or its anticipated business, products or services.
