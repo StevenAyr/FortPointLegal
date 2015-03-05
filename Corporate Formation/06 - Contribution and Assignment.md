@@ -44,7 +44,7 @@ The Founder hereby assigns to the Company, its successors and assigns, his or he
 **IN WITNESS WHEREOF**, the undersigned has caused this instrument to be executed as a sealed document with an effective date as of DATE.
 
 
-By, ________________________________
+By, ______________________________  
 *FOUNDER NAME*
 
 **Accepted and Agreed**:
@@ -52,6 +52,6 @@ By, ________________________________
 *COMPANY NAME*
 
 
-By:_____________________________
-     *COMPANY REP NAME*, *COMPANY REP TITLE*
+By:_____________________________  
+*COMPANY REP NAME*, *COMPANY REP TITLE*
 
