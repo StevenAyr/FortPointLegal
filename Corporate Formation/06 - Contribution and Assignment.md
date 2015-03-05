@@ -1,4 +1,4 @@
-## COMPANY NAME
+### COMPANY NAME
 ### CONTRIBUTION AND ASSIGNMENT AGREEMENT
 
 Reference is made to the undersigned (the “**Founder**”), and the Founder Stock Restriction Agreement, dated as of the even date herewith, by and between *COMPANY NAME* (the “**Company**”) and the Founder (such agreement, the “**Stock Restriction Agreement**”). 
