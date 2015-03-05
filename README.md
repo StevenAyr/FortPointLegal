@@ -2,7 +2,7 @@
 
 This repo is maintained by Steven M. Ayr of Fort Point Legal PC in Boston, MA. These documents are provided in part for transparency, because legal documents shouldn’t be some guarded secret you need to pay for access to, and in part for collaboration, so that by opening up our standard incorporation documentation we can solicit feedback and work with the community towards improvements. All feedback is welcome.
 
-You can find out more about Fort Point Legal by visiting our website at <fortpointlegal.com>, or following us on Twitter at @FortPointLegal or @StevenAyr.
+You can find out more about Fort Point Legal by visiting our [website] <http://www.fortpointlegal.com>, or following us on Twitter at @FortPointLegal or @StevenAyr.
 
 ### Obligatory Legal Disclaimer
 
