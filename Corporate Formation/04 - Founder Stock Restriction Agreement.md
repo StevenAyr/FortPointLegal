@@ -1,4 +1,4 @@
-## *COMPANY NAME*
+### *COMPANY NAME*
 ### Founder Stock Restriction Agreement
 
 *COMPANY NAME*, a *STATE OF INCORPORATION* corporation (the “**Company**”), and *FOUNDER NAME* (the “**Founder**”) hereby agree as follows in connection with the issuance of shares of Common Stock, par value $*PAR VALUE* per share, of the Company specified below (the “**Shares**”) pursuant to that certain Subscription Letter, dated as of *LETTER DATE*, between the Company and the Founder (the “**Subscription Letter**”) and that certain Contribution and Assignment Agreement by and between the parties of even date (the “**Contribution Agreement**”).  The terms and conditions attached hereto are incorporated herein and made a part hereof. 
@@ -27,7 +27,7 @@ By: ______________________
 *FOUNDER NAME*
 
  
-## *COMPANY NAME*
+### *COMPANY NAME*
 ### Founder Stock Restriction Agreement – Incorporated Terms and Conditions
 
 **WHEREAS**, pursuant to the Subscription Letter and Contribution Agreement, the Founder subscribed for *NUMBER OF SHARES*; and

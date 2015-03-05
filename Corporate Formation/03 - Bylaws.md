@@ -1,5 +1,6 @@
-## COMPANY NAME
-### BYLAWS EFFECTIVE AS OF *DATE*, *YEAR*
+### COMPANY NAME
+### BYLAWS 
+### EFFECTIVE AS OF *DATE*, *YEAR*
 * * * * *
 #### ARTICLE I: MEETINGS OF STOCKHOLDERS
 1. *Place of Meetings*. All meetings of stockholders may be held at such place, either within or without the State of Delaware, as determined by the board of directors (the “Board”) or the chief executive officer, or if not so designated, at the registered office of the Corporation. The Board may, in its sole discretion, determine that the meeting shall not be held at any place, but may instead be held solely by means of remote communication.
